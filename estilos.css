@@ -1,11 +1,10 @@
-h3{
-    color:blueviolet;
+body {
+    background-color: bisque;
 }
 
-h2{
-    color: aqua;
-}
-p { 
-    color: brown;
+
+h1{
+    color:blueviolet;
     text-align: center;
 }
+
